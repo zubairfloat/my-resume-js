@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 
 const contactData = {
-  phone: ["+44 1632 960428"],
-  email: ["hello@bako.com"],
-  location: "West Palm Beach, 4669 Travis Street",
+  phone: ["+92 323 4608655"],
+  email: ["zubairfloat@gmail.com"],
+  location: "Gulberg, Lahore , Pakistan",
 };
 
 function Contact() {
