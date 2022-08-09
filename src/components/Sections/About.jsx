@@ -2,8 +2,8 @@ import React from "react";
 import { Link as ScrollLink } from "react-scroll";
 
 const aboutData = {
-  cvpath: "media/empty.pdf",
-  image: "/images/zub.jpeg",
+  cvpath: "media/resume.pdf",
+  image: "/images/zub2.jpeg",
   name: "Muhammad Zubair Rizwan",
   location: "Lahore, Pakistan",
   birthday: "12 August, 1996",

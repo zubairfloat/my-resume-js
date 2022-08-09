@@ -5,37 +5,35 @@ const servicesData = [
   {
     id: 1,
     name: "Development",
-    content: "Lorem ipsum dolor sit amet consectetuer elit.",
+    content:
+      "Customized modules written in javascript with ES6 , ES7. Make Reuse able components ",
     icon: "icon-globe",
   },
   {
     id: 2,
     name: "Design",
-    content: "Lorem ipsum dolor sit amet consectetuer elit.",
+    content:
+      "Convert Figma to React & HTMl & CSS, Pixel Perfect Design with mobile Responsive",
     icon: "icon-chemistry",
   },
   {
     id: 3,
     name: "Advertising",
-    content: "Lorem ipsum dolor sit amet consectetuer elit.",
+    content:
+      "Bootstrap 5 and React, Clean & Modern Design Personal Portfolio, React Digital Agency",
     icon: "icon-directions",
   },
   {
     id: 4,
     name: "SEO",
-    content: "Lorem ipsum dolor sit amet consectetuer elit.",
+    content:
+      "SEO Digital Marketing Agency Theme and Marketing & Social Media, SEO Consulting Agency",
     icon: "icon-rocket",
   },
   {
     id: 5,
-    name: "Copy Write",
-    content: "Lorem ipsum dolor sit amet consectetuer elit.",
-    icon: "icon-note",
-  },
-  {
-    id: 6,
     name: "Support",
-    content: "Lorem ipsum dolor sit amet consectetuer elit.",
+    content: "Any Time available for resolve any issue related my work.",
     icon: "icon-bubbles",
   },
 ];

@@ -4,24 +4,29 @@ import Experience from "../Items/Experience";
 const experiencesData = [
   {
     id: 1,
-    year: "2019 - Present",
-    degree: "Academic Degree",
-    content:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget dolor aenean massa.",
+    year: "04-2021 - Present",
+    degree: "Mern Stack (Projects)",
+    content: "Different Clients on Market places ",
+    link: "https://github.com/zubairfloat?tab=repositories",
   },
   {
     id: 2,
-    year: "2018 - 2015",
-    degree: "Bachelor’s Degree",
-    content:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget dolor aenean massa.",
+    year: "04-2021 - Present",
+    degree: "Systems Limited (Software Engineer specialty in React JS)",
+    content: "Dynamics 365 store front customization in React js",
   },
   {
     id: 3,
-    year: "2015 - 2012",
-    degree: "Honours Degree",
+    year: "08-2020 - 04-2021",
+    degree: "OneClout (Associate Software Engineer)",
     content:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget dolor aenean massa.",
+      "Full Time Mern Stack Developer with 8 Months of experience. Major looking Node js with Porstgresql database management.",
+  },
+  {
+    id: 4,
+    year: "12-2018 - 08-2020",
+    degree: "HashLogics# (Mern Stack Developer)",
+    content: "Full Time Mern Stack Developer with 1.5 years of experience.",
   },
 ];
 

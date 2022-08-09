@@ -48,7 +48,7 @@ function Demopage() {
       >
         <div className="container">
           <div className="demo-content">
-            <p>&copy; {new Date().gtFullYear} Bako Template</p>
+            <p>&copy; {new Date().gtFullYear} Zubair Rizwan</p>
           </div>
         </div>
         <div className="overlay"></div>

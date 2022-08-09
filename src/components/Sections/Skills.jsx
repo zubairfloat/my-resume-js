@@ -9,21 +9,36 @@ const skillData = {
     {
       id: 1,
       name: "React",
-      percentage: 90,
+      percentage: 95,
     },
     {
       id: 2,
-      name: "Redux",
+      name: "Next",
       percentage: 90,
     },
     {
       id: 3,
+      name: "Node",
+      percentage: 80,
+    },
+    {
+      id: 4,
+      name: "Type Script",
+      percentage: 90,
+    },
+    {
+      id: 5,
+      name: "Redux",
+      percentage: 90,
+    },
+    {
+      id: 6,
       name: "HTML & CSS",
       percentage: 85,
     },
     {
-      id: 4,
-      name: "Node",
+      id: 7,
+      name: "Mongo DB",
       percentage: 80,
     },
   ],
