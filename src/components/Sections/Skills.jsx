@@ -4,7 +4,7 @@ import Skill from "../Items/Skill";
 
 const skillData = {
   skillContent:
-    "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarks grove right at the coast of the Semantics",
+    "Full Stack JavaScript Developer with 6 years of experience working as a Microsoft Dynamics 365 developer, specializing in front end customization. I am also a MERN stack developer with a focus on React.",
   progressData: [
     {
       id: 1,
@@ -13,7 +13,7 @@ const skillData = {
     },
     {
       id: 2,
-      name: "Next",
+      name: "D365 Front End",
       percentage: 90,
     },
     {
@@ -41,6 +41,11 @@ const skillData = {
       name: "Mongo DB",
       percentage: 80,
     },
+    {
+      id: 8,
+      name: "Next",
+      percentage: 90,
+    }
   ],
 };
 

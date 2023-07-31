@@ -4,7 +4,7 @@ import { Link as ScrollLink } from "react-scroll";
 const herosectionData = {
   name: "Muhammad",
   aboutMe:
-    "I am a Web Developer with 4 year working as Mern Stack Developer. I'm experienced with various technologies: ReactJs, NodeJs, MongoDB, MYSQL , POSTGRESQL, Redux, React-TypeScript, React-Strap, CSS3, SCSS. I'm familiar with the latest JavaScript code, style & conventions and always keeps up to date with ReactJs new API Integration and Services development",
+    "I am a highly skilled Full Stack JavaScript Developer with 6 years of experience in the IT industry, primarily focusing on front-end customization as a Microsoft Dynamics 365 developer. Throughout my career, I have demonstrated proficiency in various technologies and frameworks, including ReactJS, Node.js, MongoDB, MySQL, PostgreSQL, Redux, React-TypeScript, React-Strap, CSS3, and SCSS. My expertise as a Microsoft Dynamics 365 developer has allowed me to excel in customizing front-end interfaces, tailoring them to meet specific business needs and user requirements.",
 };
 
 function Herosection() {
