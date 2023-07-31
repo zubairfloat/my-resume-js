@@ -9,7 +9,7 @@ import {
 } from "react-icons/fa";
 
 const headerData = {
-  name: "Bako Doe",
+  name: "zubair Doe",
   designation: "Web Developer",
   imageThumb: "/images/logo.png",
   social: {
